@@ -1,4 +1,4 @@
-[^\S]\b(o|O)[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b
+﻿[^\S]\b(o|O)[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b
 25
 outlook.team@enron.com
 outlook.team@enron.com
